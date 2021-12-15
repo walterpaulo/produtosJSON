@@ -1,0 +1,32 @@
+{
+    "Produtos":[
+        {
+            "id":1,
+            "nome": "Teclado",
+            "quantidade": 10,
+            "valor": 50,
+            "total": 500
+        },
+        {
+            "id":2,
+            "nome": "Mouse",
+            "quantidade": 10,
+            "valor": 20,
+            "total": 200
+        },
+        {
+            "id":3,
+            "nome": "Monitor 15",
+            "quantidade": 2,
+            "valor": 650,
+            "total": 1300
+        },
+        {
+            "id":4,
+            "nome": "Fone de ouvido",
+            "quantidade": 1,
+            "valor": 15,
+            "total": 15
+        }
+    ]
+}
