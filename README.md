@@ -1,5 +1,6 @@
 # API de Carros em JSON
 
+Esta API foi projetado para colaborar e preparação do Front-end de forma rápida.
 
 >## Iniciar API
 
@@ -9,12 +10,25 @@
 * **DELETE**
 
 
-> ### Utilizar o terminal:
+>## Modelo
 ```
-./start
+Produtos{
+      id	     integer($int32)
+      nome	     string
+      quantidade integer($int32)
+      valor	     integer($int32)
+      total	     integer($int32)
+}
+```
+
+
+> ### Execultar API:
+```
+./start.sh
 ```
 
 API de Carros rodando
+
 ArqueiroVerde
 
   \{^_^}/ hi!
@@ -39,7 +53,7 @@ git clone https://github.com/walterpaulo/produtosJSON.git
 
 cd produtosJSON
 
-./start
+./start.sh
 ```
 > ### Erro ao executar programa:
 ```
