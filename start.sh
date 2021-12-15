@@ -11,8 +11,6 @@
 #####   PROJETO:                 https://github.com/walterpaulo/produtosJSON.git
 
 DB=produtos.json
-echo -e "$JSON"
-
 
 (which json-server > /dev/null 2>&1 && 
         echo -e "API de Carros rodando\nArqueiroVerde" && 
