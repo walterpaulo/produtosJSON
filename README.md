@@ -12,6 +12,7 @@
 > ### Utilizar o terminal:
 ```
 ./start
+```
 
 API de Carros rodando
 ArqueiroVerde
@@ -22,21 +23,23 @@ ArqueiroVerde
   Done
 
   Resources
-  http://localhost:8900/Produtos
+  [http://localhost:8900/Produtos](http://localhost:8900/Produtos)
 
   Home
-  http://localhost:8900
+  [http://localhost:8900](http://localhost:8900)
 
   Type s + enter at any time to create a snapshot of the database
   Watching...
 
-```
+
 
 > ### Baixar projeto:
 ```
 git clone https://github.com/walterpaulo/produtosJSON.git
 
 cd produtosJSON
+
+./start
 ```
 > ### Erro ao executar programa:
 ```
