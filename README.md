@@ -4,10 +4,10 @@ Esta API foi projetada para o Front-end de forma rápida.
 
 >## Iniciar API
 
-* **GET**
-* **POST**
-* **PUT**
-* **DELETE**
+* ![**GET**](./img/get.png)
+* ![**POST**](./img/post.png)
+* ![**PUT**](./img/put.png)
+* ![**DELETE**](./img/delete.png)
 
 
 >## Modelo
