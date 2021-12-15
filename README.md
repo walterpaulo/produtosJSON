@@ -1,6 +1,6 @@
 # API de Carros em JSON
 
-Esta API foi projetado para colaborar e preparação do Front-end de forma rápida.
+Esta API foi projetada para o Front-end de forma rápida.
 
 >## Iniciar API
 
